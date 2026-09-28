@@ -1,0 +1,6 @@
+{
+  "name": "TradingView Markets - Global Financial Terminal",
+  "description": "Real-time quotes, multi-asset technical charts, heatmaps and macro intelligence across global trading desks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
